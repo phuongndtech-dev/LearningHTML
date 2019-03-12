@@ -1,0 +1,142 @@
+body {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    line-height: 1.8;
+    overflow-x: hidden;
+    background-color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.profile-none-list{
+    list-style-type: none;
+}
+
+.profile-avatar{
+    width: 150px;
+    height: 150px;
+}
+
+.background-color-black{
+    background-color: black;
+}
+
+.width-100{
+    width: 100%;;
+}
+.color-white{
+    color: white;
+}
+
+.profile-info-block{
+    padding-top: 50px;
+    padding-left: 20px;
+}
+
+.name{
+    font-size: 2.5rem; 
+}
+
+.job-title{
+    font-size: 1.2rem;
+}
+
+.address,.email,.birthday,.phone,.social-link,.response,.project{
+    font-size: 0.8rem;
+}
+
+.summary,.year,.major{
+    font-size: 1rem;
+}
+
+.title-skill{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.padding-bottom{
+    padding-bottom: 30px;
+}
+.background-color-grey{
+    background-color: grey;
+}
+
+.color-blue{
+    color:blue;
+}
+  
+.color-grey{
+    color:grey;
+}
+
+.logo-avatar{
+    width: 180px;
+    height: 150px;
+    margin-top:50px;
+}
+
+.education{
+    padding-bottom: 20px;
+}
+
+.background-color-blue{
+    background-color: blue;
+    
+}
+
+.back-end,.font-end,.orther{
+    background-color: white;
+    padding: 10px;
+}
+
+.background-color-ex {
+    background-color: #f5f5f5;
+}
+
+.padding-50{
+    padding: 50px;
+}
+
+.logo-experience{
+    max-width: 100%;
+    max-height: 200px;
+}
+
+.background-color-company{
+    background-color: white;
+}
+
+.padding-20{
+    padding: 20px;
+}
+
+.margin-top-13{
+    margin-top:13px;
+}
+
+.margin-bottom-10{
+
+    margin-bottom: 20px;
+}
+footer{
+    width: 100%;
+    height: auto;
+    color: #ffffff;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    background-color: blue;
+    text-align: center;
+}
+
+.logo-footer{
+    width: 50px;
+    height: 50px;
+}
+
+.block-skill{
+    width: 400px;
+    height: 180px;
+}
