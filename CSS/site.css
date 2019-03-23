@@ -101,7 +101,7 @@ body {
     max-height: 200px;
 }
 
-.background-color-company{
+.background-color-white-company{
     background-color: white;
 }
 
@@ -139,4 +139,8 @@ footer{
 .block-skill{
     width: 400px;
     height: 180px;
+}
+
+.dash::before{
+    content: "-"
 }
